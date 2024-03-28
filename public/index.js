@@ -1,3 +1,4 @@
+
 function getColor(stock){
     if(stock === "GME"){
         return 'rgba(61, 161, 61, 0.7)'
